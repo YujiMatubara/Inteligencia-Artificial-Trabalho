@@ -19,4 +19,4 @@ Nessa pasta compactada temos:
 Se quiser rodar o notebook é recomendável trocar o local de leitura do tsv para onde está em sua máquina.
 __________________________________________________________________________________________
 
-Utilizando a base de preços de combustíveis brasileiros do Kaggle disponível em: https://www.kaggle.com/datasets/matheusfreitag/gas-prices-in-brazil realizamos o pré processamento de dados para então treinar algoritmos de machine learning e comprá-los, foram eles: Naive Bayes, Random Forest, KNN, e Logistic Regression.
+Utilizando a base de preços de combustíveis brasileiros do Kaggle disponível em: https://www.kaggle.com/datasets/matheusfreitag/gas-prices-in-brazil realizamos o pré processamento de dados para então treinar algoritmos de machine learning e compará-los, foram eles: Naive Bayes, Random Forest, KNN, e Logistic Regression.
